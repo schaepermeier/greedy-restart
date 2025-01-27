@@ -2,3 +2,5 @@ __pycache__/
 _ignore/
 .DS_Store
 .vscode/
+exdata/
+ppdata/
