@@ -1,2 +1,4 @@
-__pycache__/*
-_ignore/*
+__pycache__/
+_ignore/
+.DS_Store
+.vscode/
