@@ -4,3 +4,4 @@ _ignore/
 .vscode/
 exdata/
 ppdata/
+.Rproj.user
