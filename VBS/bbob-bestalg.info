@@ -1,0 +1,288 @@
+funcId = 1, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f01_d02.dat, 0:6|1.000000000000000e-08
+funcId = 2, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f02_d02.dat, 0:74|1.000000000000000e-08
+funcId = 3, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f03_d02.dat, 0:1034|1.000000000000000e-08
+funcId = 4, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f04_d02.dat, 0:249|1.000000000000000e-08
+funcId = 5, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f05_d02.dat, 0:11|1.000000000000000e-08
+funcId = 6, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f06_d02.dat, 0:590|1.000000000000000e-08
+funcId = 7, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f07_d02.dat, 0:423|1.000000000000000e-08
+funcId = 8, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f08_d02.dat, 0:100|1.000000000000000e-08
+funcId = 9, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f09_d02.dat, 0:166|1.000000000000000e-08
+funcId = 10, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f10_d02.dat, 0:787|1.000000000000000e-08
+funcId = 11, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f11_d02.dat, 0:771|1.000000000000000e-08
+funcId = 12, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f12_d02.dat, 0:539|1.000000000000000e-08
+funcId = 13, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f13_d02.dat, 0:936|1.000000000000000e-08
+funcId = 14, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f14_d02.dat, 0:790|1.000000000000000e-08
+funcId = 15, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f15_d02.dat, 0:1870|1.000000000000000e-08
+funcId = 16, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f16_d02.dat, 0:656|1.000000000000000e-08
+funcId = 17, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f17_d02.dat, 0:2550|1.000000000000000e-08
+funcId = 18, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f18_d02.dat, 0:2707|1.000000000000000e-08
+funcId = 19, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f19_d02.dat, 0:2702|1.000000000000000e-08
+funcId = 20, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f20_d02.dat, 0:501|1.000000000000000e-08
+funcId = 21, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f21_d02.dat, 0:900|1.000000000000000e-08
+funcId = 22, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f22_d02.dat, 0:1215|1.000000000000000e-08
+funcId = 23, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f23_d02.dat, 0:36107|1.000000000000000e-08
+funcId = 24, DIM = 2, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f24_d02.dat, 0:56310|1.000000000000000e-08
+funcId = 1, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f01_d03.dat, 0:7|1.000000000000000e-08
+funcId = 2, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f02_d03.dat, 0:120|1.000000000000000e-08
+funcId = 3, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f03_d03.dat, 0:7127|1.000000000000000e-08
+funcId = 4, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f04_d03.dat, 0:7220|1.000000000000000e-08
+funcId = 5, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f05_d03.dat, 0:18|1.000000000000000e-08
+funcId = 6, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f06_d03.dat, 0:944|1.000000000000000e-08
+funcId = 7, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f07_d03.dat, 0:583|1.000000000000000e-08
+funcId = 8, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f08_d03.dat, 0:168|1.000000000000000e-08
+funcId = 9, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f09_d03.dat, 0:84|1.000000000000000e-08
+funcId = 10, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f10_d03.dat, 0:1046|1.000000000000000e-08
+funcId = 11, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f11_d03.dat, 0:1131|1.000000000000000e-08
+funcId = 12, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f12_d03.dat, 0:2912|1.000000000000000e-08
+funcId = 13, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f13_d03.dat, 0:1627|1.000000000000000e-08
+funcId = 14, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f14_d03.dat, 0:1251|1.000000000000000e-08
+funcId = 15, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f15_d03.dat, 0:4570|1.000000000000000e-08
+funcId = 16, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f16_d03.dat, 0:2302|1.000000000000000e-08
+funcId = 17, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f17_d03.dat, 0:2654|1.000000000000000e-08
+funcId = 18, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f18_d03.dat, 0:4557|1.000000000000000e-08
+funcId = 19, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f19_d03.dat, 0:10143|1.000000000000000e-08
+funcId = 20, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f20_d03.dat, 0:17192|1.000000000000000e-08
+funcId = 21, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f21_d03.dat, 0:2750|1.000000000000000e-08
+funcId = 22, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f22_d03.dat, 0:3476|1.000000000000000e-08
+funcId = 23, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f23_d03.dat, 0:76388|1.000000000000000e-08
+funcId = 24, DIM = 3, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f24_d03.dat, 0:1106585|1.000000000000000e-08
+funcId = 1, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f01_d05.dat, 0:9|1.000000000000000e-08
+funcId = 2, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f02_d05.dat, 0:185|1.000000000000000e-08
+funcId = 3, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f03_d05.dat, 0:83817|1.000000000000000e-08
+funcId = 4, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f04_d05.dat, 0:55942|1.000000000000000e-08
+funcId = 5, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f05_d05.dat, 0:26|1.000000000000000e-08
+funcId = 6, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f06_d05.dat, 0:1902|1.000000000000000e-08
+funcId = 7, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f07_d05.dat, 0:1419|1.000000000000000e-08
+funcId = 8, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f08_d05.dat, 0:507|1.000000000000000e-08
+funcId = 9, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f09_d05.dat, 0:206|1.000000000000000e-08
+funcId = 10, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f10_d05.dat, 0:2202|1.000000000000000e-08
+funcId = 11, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f11_d05.dat, 0:2249|1.000000000000000e-08
+funcId = 12, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f12_d05.dat, 0:4954|1.000000000000000e-08
+funcId = 13, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f13_d05.dat, 0:3714|1.000000000000000e-08
+funcId = 14, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f14_d05.dat, 0:2508|1.000000000000000e-08
+funcId = 15, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f15_d05.dat, 0:11950|1.000000000000000e-08
+funcId = 16, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f16_d05.dat, 0:7109|1.000000000000000e-08
+funcId = 17, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f17_d05.dat, 0:5687|1.000000000000000e-08
+funcId = 18, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f18_d05.dat, 0:7856|1.000000000000000e-08
+funcId = 19, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f19_d05.dat, 0:43509|1.000000000000000e-08
+funcId = 20, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f20_d05.dat, 0:34271|1.000000000000000e-08
+funcId = 21, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f21_d05.dat, 0:11279|1.000000000000000e-08
+funcId = 22, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f22_d05.dat, 0:16484|1.000000000000000e-08
+funcId = 23, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f23_d05.dat, 0:174486|1.000000000000000e-08
+funcId = 24, DIM = 5, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f24_d05.dat, 0:7404791|1.000000000000000e-08
+funcId = 1, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f01_d10.dat, 0:14|1.000000000000000e-08
+funcId = 2, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f02_d10.dat, 0:374|1.000000000000000e-08
+funcId = 3, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f03_d10.dat, 0:1571698|1.000000000000000e-08
+funcId = 4, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f04_d10.dat, 0:6817230|1.000000000000000e-08
+funcId = 5, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f05_d10.dat, 0:46|1.000000000000000e-08
+funcId = 6, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f06_d10.dat, 0:4503|1.000000000000000e-08
+funcId = 7, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f07_d10.dat, 0:3065|1.000000000000000e-08
+funcId = 8, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f08_d10.dat, 0:4555|1.000000000000000e-08
+funcId = 9, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f09_d10.dat, 0:519|1.000000000000000e-08
+funcId = 10, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f10_d10.dat, 0:6003|1.000000000000000e-08
+funcId = 11, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f11_d10.dat, 0:6128|1.000000000000000e-08
+funcId = 12, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f12_d10.dat, 0:13122|1.000000000000000e-08
+funcId = 13, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f13_d10.dat, 0:12980|1.000000000000000e-08
+funcId = 14, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f14_d10.dat, 0:6993|1.000000000000000e-08
+funcId = 15, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f15_d10.dat, 0:50789|1.000000000000000e-08
+funcId = 16, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f16_d10.dat, 0:27394|1.000000000000000e-08
+funcId = 17, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f17_d10.dat, 0:15022|1.000000000000000e-08
+funcId = 18, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f18_d10.dat, 0:16362|1.000000000000000e-08
+funcId = 19, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f19_d10.dat, 0:1640390|1.000000000000000e-08
+funcId = 20, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f20_d10.dat, 0:652429|1.000000000000000e-08
+funcId = 21, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f21_d10.dat, 0:17672|1.000000000000000e-08
+funcId = 22, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f22_d10.dat, 0:130242|1.000000000000000e-08
+funcId = 23, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f23_d10.dat, 0:1399550|1.000000000000000e-08
+funcId = 24, DIM = 10, Precision = 1.000000000000000e-08, algId = 'VBS', suite = 'bbob'
+% Combination of exdata/GRS, exdata/GRS-LOPO, exdata/Powell, exdata/SLSQP, exdata/L-BFGS-B, exdata/default, exdata/2L, exdata/4L, exdata/8L, exdata/16L, exdata/32L, exdata/64L; instance_numbers: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+bbob-bestalg_f24_d10.dat, 0:15920099|1.000000000000000e-01
