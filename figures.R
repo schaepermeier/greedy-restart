@@ -42,10 +42,12 @@ all_ecdf <- all_runtimes %>%
   summarize(solved = mean(solved)) %>%
   mutate(Problem = "All")
 
-rbind(all_runtimes, all_ecdf) %>% mutate(Problem = factor(Problem, levels = c("P1", "P2", "All"))) %>% 
+rbind(all_runtimes, all_ecdf) %>%
+  mutate(Problem = factor(Problem, levels = c("P1", "P2", "All"))) %>% 
   ggplot(aes(fevals, solved, color = Algorithm, linetype = Algorithm)) +
   geom_step() +
   facet_wrap(~Problem) +
+  # geom_step(data = all_runtimes %>% filter(Algorithm == "A1", Problem == "P1") %>% mutate(Problem = "All"), color = "gray", linetype = "solid") +
   scale_color_viridis_d() +
   scale_linetype_manual(values = c("dotted", "solid", "dashed")) +
   theme(legend.position = "bottom") +
